@@ -18,6 +18,7 @@
 
 ![Anleitung - 6](https://i.imgur.com/GLBgm1e.png)
 - Falls Teile der Einstellungen fehlen muss entweder nach unten gescrollt, oder das Fenster nach unten länger gezogen werden.
+- Die einzutragende URL lautet `https://choozn.github.io/TwitchChessPuzzles/`
 
 ### Schritt 4. - Fertig!
 
