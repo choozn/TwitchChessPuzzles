@@ -17,7 +17,7 @@
 ### Schritt 3. - TwitchChessPuzzles einbinden
 
 ![Anleitung - 6](https://i.imgur.com/GLBgm1e.png)
-- Falls Teile der Einstellungen fehlen muss entweder nach unten gescrollt werden, oder das Fenster nach unten länger gezogen werden.
+- Falls Teile der Einstellungen fehlen muss entweder nach unten gescrollt, oder das Fenster nach unten länger gezogen werden.
 
 ### Schritt 4. - Fertig!
 
