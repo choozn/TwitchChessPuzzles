@@ -26,4 +26,6 @@
 
 Hurray - Schon geschafft :D
 
+-> Bei Fragen oder Sonstigem Discord: choozn#6498
+
 (Fotostrecke auch unter https://imgur.com/a/ARKt5pa)
