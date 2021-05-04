@@ -25,7 +25,7 @@
 ### Schritt 5. - Fertig!
 
 ![Anleitung - 7](https://i.imgur.com/QLtVUTQ.png)
-- Der Chat kann nun mit Chatnachrichten im Format der (Englischen!) [Algebraischen Notation](https://de.wikipedia.org/wiki/Schachnotation#Algebraische_Notation) teilnehmen. Alle möglichen legalen Züge werden in der Liste rechts vom Schachboard aufgelistet.
+- Der Chat kann nun mit Chatnachrichten im Format der (englischen!) [Algebraischen Notation](https://de.wikipedia.org/wiki/Schachnotation#Algebraische_Notation) teilnehmen. Alle möglichen legalen Züge werden in der Liste rechts vom Schachboard aufgelistet.
 
 Hurray - Schon geschafft :D
 
