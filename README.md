@@ -39,4 +39,4 @@ Hurray - Schon geschafft :D
 
 ----------------------------------------------------
 Icons by https://www.flaticon.com under the Flaticon License
--> MAde by FreePik
+-> Made by FreePik
