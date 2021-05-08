@@ -29,6 +29,14 @@
 
 Hurray - Schon geschafft :D
 
+### Fehlerbehebung
+- Bei Fehlern, wie einem verbuggten Puzzle o.Ä. kann im Chat mit `!skip` oder `!reload` als Mod das fehlerhafte Puzzle übersprungen werden.
+
 -> Bei Fragen oder Sonstigem Discord: choozn#6498
 
 (Fotostrecke auch unter https://imgur.com/a/ARKt5pa)
+
+
+----------------------------------------------------
+Icons by https://www.flaticon.com under the Flaticon License
+-> MAde by FreePik
