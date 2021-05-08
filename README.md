@@ -30,7 +30,7 @@
 Hurray - Schon geschafft :D
 
 ### Fehlerbehebung
-- Bei Fehlern, wie einem verbuggten Puzzle o.Ä. kann im Chat mit `!skip` oder `!reload` als Mod das fehlerhafte Puzzle übersprungen werden.
+- Bei Fehlern, wie einem verbuggten Puzzle o.Ä., kann im Chat mit `!skip` oder `!reload` als Mod das fehlerhafte Puzzle übersprungen werden.
 
 -> Bei Fragen oder Sonstigem Discord: choozn#6498
 
