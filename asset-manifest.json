@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TwitchChessPuzzles/static/css/main.c4d805de.chunk.css",
-    "main.js": "/TwitchChessPuzzles/static/js/main.595ff960.chunk.js",
-    "main.js.map": "/TwitchChessPuzzles/static/js/main.595ff960.chunk.js.map",
+    "main.css": "/TwitchChessPuzzles/static/css/main.3a7ee782.chunk.css",
+    "main.js": "/TwitchChessPuzzles/static/js/main.0078f88e.chunk.js",
+    "main.js.map": "/TwitchChessPuzzles/static/js/main.0078f88e.chunk.js.map",
     "runtime-main.js": "/TwitchChessPuzzles/static/js/runtime-main.2525cd45.js",
     "runtime-main.js.map": "/TwitchChessPuzzles/static/js/runtime-main.2525cd45.js.map",
-    "static/js/2.4d29e06d.chunk.js": "/TwitchChessPuzzles/static/js/2.4d29e06d.chunk.js",
-    "static/js/2.4d29e06d.chunk.js.map": "/TwitchChessPuzzles/static/js/2.4d29e06d.chunk.js.map",
+    "static/js/2.226624ae.chunk.js": "/TwitchChessPuzzles/static/js/2.226624ae.chunk.js",
+    "static/js/2.226624ae.chunk.js.map": "/TwitchChessPuzzles/static/js/2.226624ae.chunk.js.map",
     "index.html": "/TwitchChessPuzzles/index.html",
-    "static/css/main.c4d805de.chunk.css.map": "/TwitchChessPuzzles/static/css/main.c4d805de.chunk.css.map",
-    "static/js/2.4d29e06d.chunk.js.LICENSE.txt": "/TwitchChessPuzzles/static/js/2.4d29e06d.chunk.js.LICENSE.txt",
+    "static/css/main.3a7ee782.chunk.css.map": "/TwitchChessPuzzles/static/css/main.3a7ee782.chunk.css.map",
+    "static/js/2.226624ae.chunk.js.LICENSE.txt": "/TwitchChessPuzzles/static/js/2.226624ae.chunk.js.LICENSE.txt",
     "static/media/001-dracula.svg": "/TwitchChessPuzzles/static/media/001-dracula.1d4afc9f.svg",
     "static/media/002-witch.svg": "/TwitchChessPuzzles/static/media/002-witch.8e46b269.svg",
     "static/media/003-jack-o-lantern.svg": "/TwitchChessPuzzles/static/media/003-jack-o-lantern.f757f7fe.svg",
@@ -63,8 +63,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2525cd45.js",
-    "static/js/2.4d29e06d.chunk.js",
-    "static/css/main.c4d805de.chunk.css",
-    "static/js/main.595ff960.chunk.js"
+    "static/js/2.226624ae.chunk.js",
+    "static/css/main.3a7ee782.chunk.css",
+    "static/js/main.0078f88e.chunk.js"
   ]
 }
