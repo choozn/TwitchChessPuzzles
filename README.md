@@ -1,3 +1,11 @@
+# Chat Commands
+
+| Command| Nutzbar von|Auswirkung|
+| ------------- |:-------------:| :-----|
+| `!skip` | Moderator | Überspringt das aktuelle Puzzle |
+| `!reload` | Moderator | Startet das Spiel neu - Punkte bleiben erhalten |
+| `!mode [1-5]` | Moderator | Setzt den Schwierigkeitsgrad (Schachmatt in [1-5] Zügen) |
+
 # Schritt für Schritt Anleitung - Setup von TwitchChessPuzzles
 
 ### Schritt 1. - OBS öffnen
