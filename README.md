@@ -26,8 +26,8 @@
 
 ![Anleitung - 6](https://i.imgur.com/GLBgm1e.png)
 - Falls Teile der Einstellungen fehlen muss entweder nach unten gescrollt, oder das Fenster nach unten länger gezogen werden.
-- Die einzutragende URL lautet `https://choozn.github.io/TwitchChessPuzzles/?c=[CHANNEL]`
-- Hier muss [CHANNEL] mit dem Namen des Twitch Kanals ersetzt werden. Zum Beispiel `https://choozn.github.io/TwitchChessPuzzles/?c=JanistanTV`
+- Die einzutragende URL lautet `https://choozn.ml/TwitchChessPuzzles/?c=[CHANNEL]`
+- Hier muss [CHANNEL] mit dem Namen des Twitch Kanals ersetzt werden. Zum Beispiel `https://choozn.ml/TwitchChessPuzzles/?c=JanistanTV`
 - Auch die Größe muss richtig eingestellt werden. Die Breite muss `1920` und die Höhe `1080` betragen.
 
 ### Schritt 5. - Fertig!
