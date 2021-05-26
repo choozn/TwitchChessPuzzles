@@ -4,7 +4,7 @@
 | ------------- |:-------------:| :-----|
 | `!skip` | Moderator | Überspringt das aktuelle Puzzle |
 | `!reload` | Moderator | Startet das Spiel neu - Punkte bleiben erhalten |
-| `!mode [1-5]` | Moderator | Setzt den Schwierigkeitsgrad (Schachmatt in [1-5] Zügen) |
+| `!mode [1-5]` | Moderator | Setzt den Schwierigkeitsgrad (Schachmatt in [1-5] Zügen) (Beispiel: !mode 5)|
 
 # Schritt für Schritt Anleitung - Setup von TwitchChessPuzzles
 
