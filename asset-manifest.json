@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TwitchChessPuzzles/static/css/main.dfa773cc.chunk.css",
-    "main.js": "/TwitchChessPuzzles/static/js/main.91b20263.chunk.js",
+    "main.js": "/TwitchChessPuzzles/static/js/main.702ee2f8.chunk.js",
     "runtime-main.js": "/TwitchChessPuzzles/static/js/runtime-main.2525cd45.js",
     "static/js/2.226624ae.chunk.js": "/TwitchChessPuzzles/static/js/2.226624ae.chunk.js",
     "index.html": "/TwitchChessPuzzles/index.html",
@@ -61,6 +61,6 @@
     "static/js/runtime-main.2525cd45.js",
     "static/js/2.226624ae.chunk.js",
     "static/css/main.dfa773cc.chunk.css",
-    "static/js/main.91b20263.chunk.js"
+    "static/js/main.702ee2f8.chunk.js"
   ]
 }
