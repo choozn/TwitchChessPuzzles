@@ -4,7 +4,17 @@
 | ------------- |:-------------:| :-----|
 | `!skip` | Moderator | Überspringt das aktuelle Puzzle |
 | `!reload` | Moderator | Startet das Spiel neu - Punkte bleiben erhalten |
-| `!mode [1-5]` | Moderator | Setzt den Schwierigkeitsgrad (Schachmatt in [1-5] Zügen) (Beispiel: !mode 5)|
+| `!mode [mode]` | Moderator | Setzt den Spielmodus - mögliche Modi sind unten aufgeführt (Beispiel: !mode 5)|
+
+| Mode | Beschreibung |
+| ------------- |:-------------:|
+| `1` | Schachmatt in einem Zug |
+| `2` | Schachmatt in zwei Zügen |
+| `3` | Schachmatt in drei Zügen |
+| `4` | Schachmatt in vier Zügen |
+| `5` | Schachmatt in fünf Zügen |
+| `random` | Schachmatt in einer wechselnden Anzahl an Zügen |
+| `best` | Finde den besten Zug - keine Schachmatt-Rätsel |
 
 # Schritt für Schritt Anleitung - Setup von TwitchChessPuzzles
 
