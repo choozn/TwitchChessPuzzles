@@ -1,14 +1,10 @@
 {
   "files": {
-    "main.css": "/TwitchChessPuzzles/static/css/main.3a7ee782.chunk.css",
-    "main.js": "/TwitchChessPuzzles/static/js/main.64cba73a.chunk.js",
-    "main.js.map": "/TwitchChessPuzzles/static/js/main.64cba73a.chunk.js.map",
+    "main.css": "/TwitchChessPuzzles/static/css/main.dfa773cc.chunk.css",
+    "main.js": "/TwitchChessPuzzles/static/js/main.91b20263.chunk.js",
     "runtime-main.js": "/TwitchChessPuzzles/static/js/runtime-main.2525cd45.js",
-    "runtime-main.js.map": "/TwitchChessPuzzles/static/js/runtime-main.2525cd45.js.map",
     "static/js/2.226624ae.chunk.js": "/TwitchChessPuzzles/static/js/2.226624ae.chunk.js",
-    "static/js/2.226624ae.chunk.js.map": "/TwitchChessPuzzles/static/js/2.226624ae.chunk.js.map",
     "index.html": "/TwitchChessPuzzles/index.html",
-    "static/css/main.3a7ee782.chunk.css.map": "/TwitchChessPuzzles/static/css/main.3a7ee782.chunk.css.map",
     "static/js/2.226624ae.chunk.js.LICENSE.txt": "/TwitchChessPuzzles/static/js/2.226624ae.chunk.js.LICENSE.txt",
     "static/media/001-dracula.svg": "/TwitchChessPuzzles/static/media/001-dracula.1d4afc9f.svg",
     "static/media/002-witch.svg": "/TwitchChessPuzzles/static/media/002-witch.8e46b269.svg",
@@ -64,7 +60,7 @@
   "entrypoints": [
     "static/js/runtime-main.2525cd45.js",
     "static/js/2.226624ae.chunk.js",
-    "static/css/main.3a7ee782.chunk.css",
-    "static/js/main.64cba73a.chunk.js"
+    "static/css/main.dfa773cc.chunk.css",
+    "static/js/main.91b20263.chunk.js"
   ]
 }
