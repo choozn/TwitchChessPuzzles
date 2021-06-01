@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/TwitchChessPuzzles/static/css/main.dfa773cc.chunk.css",
-    "main.js": "/TwitchChessPuzzles/static/js/main.702ee2f8.chunk.js",
-    "runtime-main.js": "/TwitchChessPuzzles/static/js/runtime-main.2525cd45.js",
-    "static/js/2.226624ae.chunk.js": "/TwitchChessPuzzles/static/js/2.226624ae.chunk.js",
+    "main.js": "/TwitchChessPuzzles/static/js/main.0f9063c2.chunk.js",
+    "runtime-main.js": "/TwitchChessPuzzles/static/js/runtime-main.016b4671.js",
+    "static/js/2.ffb8d714.chunk.js": "/TwitchChessPuzzles/static/js/2.ffb8d714.chunk.js",
     "index.html": "/TwitchChessPuzzles/index.html",
-    "static/js/2.226624ae.chunk.js.LICENSE.txt": "/TwitchChessPuzzles/static/js/2.226624ae.chunk.js.LICENSE.txt",
+    "static/js/2.ffb8d714.chunk.js.LICENSE.txt": "/TwitchChessPuzzles/static/js/2.ffb8d714.chunk.js.LICENSE.txt",
     "static/media/001-dracula.svg": "/TwitchChessPuzzles/static/media/001-dracula.1d4afc9f.svg",
     "static/media/002-witch.svg": "/TwitchChessPuzzles/static/media/002-witch.8e46b269.svg",
     "static/media/003-jack-o-lantern.svg": "/TwitchChessPuzzles/static/media/003-jack-o-lantern.f757f7fe.svg",
@@ -58,9 +58,9 @@
     "static/media/050-glasses.svg": "/TwitchChessPuzzles/static/media/050-glasses.7e99d688.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2525cd45.js",
-    "static/js/2.226624ae.chunk.js",
+    "static/js/runtime-main.016b4671.js",
+    "static/js/2.ffb8d714.chunk.js",
     "static/css/main.dfa773cc.chunk.css",
-    "static/js/main.702ee2f8.chunk.js"
+    "static/js/main.0f9063c2.chunk.js"
   ]
 }
