@@ -4,6 +4,7 @@
 | ------------- |:-------------:| :-----|
 | `!skip` | Moderator | Überspringt das aktuelle Puzzle |
 | `!reload` | Moderator | Startet das Spiel neu - Punkte bleiben erhalten |
+| `!hard-reset` | Moderator | Startet das Spiel komplett neu - Punkte werden zurückgesetzt (nutzbar als Notlösung im Falle eines Crashs) |
 | `!mode [mode]` | Moderator | Setzt den Spielmodus - mögliche Modi sind unten aufgeführt (Beispiel: !mode 5)|
 
 | Mode | Beschreibung |
