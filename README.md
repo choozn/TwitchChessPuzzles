@@ -6,6 +6,8 @@
 | `!reload` | Moderator | Startet das Spiel neu - Punkte bleiben erhalten |
 | `!hard-reset` | Moderator | Startet das Spiel komplett neu - Punkte werden zurückgesetzt (nutzbar als Notlösung im Falle eines Crashs) |
 | `!mode [mode]` | Moderator | Setzt den Spielmodus - mögliche Modi sind unten aufgeführt (Beispiel: !mode 5)|
+| `!new` | Moderator | Startet ein neues Spiel |
+| `!rotation` | Moderator | Aktiviert / deaktiviert das Rotieren des Boards nach zu spielender Farbe|
 
 | Mode | Beschreibung |
 | ------------- |:-------------:|
